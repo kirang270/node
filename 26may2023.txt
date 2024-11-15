@@ -1,3 +1,4 @@
 amazon linux has introduced new Linux version amazon linux 2023.
 It has few changes than previous version.
 need to check documentation for the updates.
+Amazon Linux will introduce new Linux version.
